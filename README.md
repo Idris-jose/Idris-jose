@@ -55,7 +55,7 @@
     </li>
     <li style="margin: 5px 0;">
       <strong><a href="https://github.com/Idris-jose/studdy-buddy" style="color: #3498db; text-decoration: none;">Study Buddy</a></strong>
-      <p style="margin: 5px 0;">A web app for music students to generate personalized study timetables and syllabi, leveraging React, Supabase, and the Gemini API.</p>
+      <p style="margin: 5px 0;">A web app for students to generate personalized study timetables and syllabi, leveraging React, Supabase, and the Gemini API.</p>
     </li>
   </ul>
 
