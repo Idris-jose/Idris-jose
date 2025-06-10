@@ -46,8 +46,8 @@
   <h2 style="color: #34495e; font-size: 1.8em; margin-top: 20px;">Projects</h2>
   <ul style="list-style-type: disc; margin: 10px 0 10px 20px;">
     <li style="margin: 5px 0;">
-      <strong><a href="https://github.com/Idris-jose/anonvote" style="color: #3498db; text-decoration: none;">AnonVote</a></strong>
-      <p style="margin: 5px 0;">A secure, anonymous voting platform built with React and Tailwind CSS, designed to ensure privacy and ease of use for online voting.</p>
+      <strong><a href="https://github.com/Idris-jose/Quillux" style="color: #3498db; text-decoration: none;">Quillux</a></strong>
+      <p style="margin: 5px 0;">An AI powered content writing assistant that makes writing pieces easier and quickly.</p>
     </li>
     <li style="margin: 5px 0;">
       <strong><a href="https://github.com/Idris-jose/ticketier" style="color: #3498db; text-decoration: none;">Ticketier</a></strong>
