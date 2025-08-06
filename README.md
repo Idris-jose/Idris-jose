@@ -13,7 +13,7 @@
   <ul style="list-style-type: disc; margin: 10px 0 10px 20px;">
     <li style="margin: 5px 0;">🌍 Based in Nigeria, passionate about creating impactful digital experiences.</li>
     <li style="margin: 5px 0;">🔭 Currently working on <a href="https://github.com/Idris-jose/anonvote" style="color: #3498db; text-decoration: none;">AnonVote</a>, a secure and anonymous voting platform.</li>
-    <li style="margin: 5px 0;">🌱 Learning <strong>Django</strong> and <strong>Next.js</strong> to expand my full-stack development skills.</li>
+    <li style="margin: 5px 0;">🌱 <strong>Django</strong> and <strong>Next.js</strong> to expands my full-stack development skills.</li>
     <li style="margin: 5px 0;">💬 Ask me about <strong>React</strong>, <strong>Framer Motion</strong>, <strong>Tailwind CSS</strong>, or frontend best practices.</li>
     <li style="margin: 5px 0;">📫 Reach me at <a href="mailto:idrisjose11@gmail.com" style="color: #3498db; text-decoration: none;">idrisjose11@gmail.com</a>.</li>
     <li style="margin: 5px 0;">⚡ <strong>Fun Fact</strong>: I'm a movie buff and can quote lines from <em>Inception</em> or <em>The Office</em> on demand!</li>
