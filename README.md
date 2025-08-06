@@ -38,7 +38,7 @@
       <td style="padding: 10px; border: 1px solid #ddd;">Git, GitHub</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Learning</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">backend</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Django, Next.js</td>
     </tr>
   </table>
